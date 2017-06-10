@@ -5,6 +5,5 @@ keras
 numpy
 h5py
 scipy
-PIL
 pillow
 tensorflow
